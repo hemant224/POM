@@ -1,5 +1,7 @@
 package com.qa.hubspot.tests;
 
-public class HomePageTest {
+import com.qa.hubsport.base.BaseTest;
+
+public class HomePageTest extends BaseTest {
 
 }
