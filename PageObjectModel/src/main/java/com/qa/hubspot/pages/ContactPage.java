@@ -1,5 +1,7 @@
 package com.qa.hubspot.pages;
 
-public class ContactPage {
+import com.qa.hubsport.base.BasePage;
+
+public class ContactPage extends BasePage {
 
 }
